@@ -24,7 +24,7 @@ Desafío: Persistencia de datos, manejo de estados complejos, UX para motivar al
 4. App de Consulta de API de Clima con Mapas
 Descripción: Consulta clima actual y pronóstico en diferentes ciudades con mapa interactivo.
 Funciones: Integrar API externa (OpenWeatherMap), mostrar datos en UI, mapa con Google Maps SDK.
-Desafío: Manejo de API REST, mapas, actualización en tiempo real.
+Desafío: Manejo de API REST, mapas, actualización en tiempo real....
 
 - [Funcionalidades de la aplicación](docs/funcionalidades.md)
 
