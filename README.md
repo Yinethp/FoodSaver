@@ -5,6 +5,20 @@ vencerse para su venta a menor costo o su donación, con el fin de reducir el de
 
 Autor(es): CAMILA PARDO Y EDISON CACERES
 
+## Componentes del Proyecto
+
+### Backend API
+El backend está implementado en Kotlin con Spring Boot y proporciona:
+- API REST para autenticación de usuarios (registro y login con JWT)
+- API REST para gestión de productos (CRUD completo)
+- Base de datos H2 en memoria (para desarrollo)
+- Seguridad con Spring Security y BCrypt
+
+Ver la [documentación completa del backend](docs/backend-api.md) para más detalles sobre los endpoints y cómo ejecutar el servidor.
+
+### Android App
+La aplicación móvil está en desarrollo y se conectará con el backend API.
+
 ## Referencias
 
 - [Ideas iniciales de proyecto](docs/ideas.md)

@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Backend build artifacts
+backend/build/
+# Android build artifacts
+android_app/build/
+android_app/app/build/

@@ -1,4 +1,2 @@
-plugins {
-    alias(libs.plugins.android.application) apply false
-    alias(libs.plugins.kotlin.android) apply false
-}
+// Root build file for android_app
+// Plugin management is in settings.gradle.kts
