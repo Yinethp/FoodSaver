@@ -20,4 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Foodsaver"
-include(":app")
+// Note: android_app and backend are separate gradle projects with their own settings
+// They should be built independently
